@@ -1,0 +1,75 @@
+#tp-pge{
+    background: #f0fff0;
+    height: 100vh;
+}
+.navbar a{
+    color: #000;
+}
+.hero-cnten h2{
+    color: #000;
+    font-size: 48px;
+    line-height: 70px;
+}
+.hero-cnten .arey{
+    color: #FD511A;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+}
+.hero-cnten span{
+    color: #FD511A;
+}
+.photo{
+    height: 60px;
+    width: 45px;
+    margin: 0 auto;
+}
+.photo img{
+    width: 100%;
+}
+
+.hvvr{
+    transition: all.4s;
+}
+.hvvr:hover{
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+.success{
+    background: #158050;
+    color: #fff;
+    border-radius: 0 20px;
+    border: none;
+    transition: .3s
+}
+.dhn .btn:hover{
+    color: #000;
+}
+.client-pc{
+    height: 140px;
+    width: 140px;
+}
+.client-pc img{
+    width: 100%;
+}
+
+#fotter{
+    background: #282531;
+    color: #fff;
+}
+
+#fotter h2{
+    font-size: 20px;
+    line-height: 30px;
+}
+#fotter h3{
+    font-size: 20px;
+    border-bottom: 1px solid #000;
+    line-height: 30px;
+}
+#fotter ul{
+    list-style: none;
+}
+#fotter ul li{
+    max-width: 0;
+    cursor: pointer;
+}

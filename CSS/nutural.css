@@ -1,0 +1,128 @@
+
+#tp-pge{
+    background-image: url(https://images01.nicepage.com/19/64/19646920271fc4e59838f9a2c979c106.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+   
+}
+
+.title h1{
+    text-transform: uppercase;
+    font-size: 4.5rem;
+    font-weight: 700;
+    color: #fff;
+}
+.title{
+    margin-top: calc(40vh - 10vh);
+}
+#tp-pge .btn{
+    font-size: 0.875rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    background: #fff;
+}
+h6{
+    color: #9fc8d9;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+h3{
+    font-weight: 400;
+    font-size: 3rem;
+    color: #19547c; 
+}
+.phto{
+    width: 515px;
+    height: 400px;
+    margin: 20px auto;
+}
+.phto img{
+    width: 100%;
+}
+
+#cver{
+    background-image: url(https://images01.nicepage.com/f3/b0/f3b0a1dbc6ca65c5856250e0ea73407f.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    object-fit: cover;
+    display: block;
+ 
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
+
+.iggd{
+    width: 250px;
+    height: 362px;
+    margin: 45px auto 45px 160px;
+}
+.igdd img{
+    width: 250px;
+    height: 362px;
+    margin: 45px auto 45px 160px;
+}
+
+.popo h3{
+    font-weight: 400;
+    font-size: 2.25rem;
+}
+
+#fotter{
+    background-image: url(https://images01.nicepage.com/5b/4e/5b4e1b8c5bbde574956c6d2cf5ef90a9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.rterwt5{
+    padding-top: 100px;
+}
+.rterwt5 h3{
+    font-size: 1.875rem;
+    color: #9fc8d9; 
+}
+.rterwt5 h2{
+    font-weight: 400;
+    font-size: 3rem;
+    font-family: Georgia, serif !important;
+    color: #fff;
+}
+
+.ruhdf6 i{
+    font-size: 62px;
+}
+.ruhdf6 .card{
+    background: none;
+    border: 0;
+    color: #fff;
+}
+
+.ruhdf6 .btn{
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 0.875rem;
+    letter-spacing: 1px;
+    background: #9fc8d9;
+}
+
+
+#fter{
+    background: #333333;
+    color: #fff;
+    padding: 20px 0;
+}
+#fter a{
+    color: #fff;
+    padding: 20px 0;
+}
+#fter .lnks p{
+    font-size: 14px;
+}
+.lnks a:hover{
+    color: rgb(173, 173, 173);
+    text-decoration: none;
+}

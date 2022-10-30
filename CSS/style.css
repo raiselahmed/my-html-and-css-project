@@ -1,0 +1,312 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#tp-pge{
+    background-image: url(https://images01.nicepage.com/19/64/19646920271fc4e59838f9a2c979c106.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+}
+
+h2{
+    font-weight: 700;
+    font-size: 3rem;
+    font-weight: 700;
+    color: #fff;
+}
+h3{
+    font-weight: 700;
+    padding-top: 14px;
+    font-size: 1.5rem;
+    color: #fff;
+}
+#tp-pge p{
+    color: #fff;
+}
+
+.bgjkdj{
+    background: #4767c9;
+    border-radius: 20px;
+    padding: 40px;
+    z-index: 22;
+}
+.bgjkdj input{
+    border-radius: 20px;
+}
+
+.form-control{
+    border-radius: 20px;
+}
+.white{
+    background: #fff;
+    border: none;
+    border-radius: 12px;
+}
+
+
+.custom-shape-divider-bottom-1666443026 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1666443026 svg {
+    position: relative;
+    display: block;
+    width: calc(150% + 1.3px);
+    height: 315px;
+}
+
+.custom-shape-divider-bottom-1666443026 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.card i{
+    font-size: 45px;
+    color: #4767C9;
+}
+
+
+#meet-team span{
+    border-bottom: 1px solid #000;
+    background: #f2f2f2;
+}
+
+
+#so{
+    list-style: none;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+#so li{
+    display: inline-block;
+    padding-left: 5px;
+}
+#so a i{
+    font-size: 30px;
+}
+#so a:hover{
+   transition: all .3s;
+    color: red;
+}
+
+#meet-team .card{
+    border-radius: 28px;
+    border: none;
+    padding-bottom: 40px;
+}
+
+#meet-team .card-title{
+    color: #4868c9;
+}
+#meet-team p{
+    color: #6A6A6A;
+}
+
+#get_start{
+    background: #4767c9;
+}
+
+#get_start h1{
+    font-size: 6rem;
+    font-weight: 700;
+    width: 514px;
+    margin: 20px auto 0;
+    color: #fff;
+}
+
+#get_start h4{
+    letter-spacing: 0px;
+    width: 255px;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 1.25rem;
+    margin: 65px auto 0;
+}
+#get_start .smple{
+    font-size: 3rem;
+    width: 100%;
+    font-weight: 400;
+    text-align: center;
+}
+#get_start p{
+    width: 514px;
+    font-size: 1.125rem;
+    margin: 21px auto 0;
+    color: #fff;
+}
+
+#get_start .plyci{
+    font-size: 0.875rem;
+    width: 581px;
+    margin: 30px auto 60px
+}
+
+#get_start .plyci a{
+    color: #fff;
+}
+#get_start .btn{
+    border-style: none;
+    font-size: 1.25rem;
+    letter-spacing: 0px;
+    background-image: none;
+    align-self: center;
+    text-transform: none;
+    font-weight: 700;
+    background: #fff;
+    border-radius: 30px;
+    margin: 30px auto 0;
+    padding: 18px 87px 18px 86px
+}
+
+.key h1{
+    letter-spacing: normal;
+    text-transform: none;
+    width: 822px;
+    font-weight: 700;
+   
+}
+
+
+#bg-pic{
+    background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/989ba51b0f1f5d87a311be92/dawq-min.jpg?version=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 469px;
+    margin-top: 35px;
+    margin-bottom: 0;
+    object-position: 50% 39.98%;
+    position: relative;
+}
+
+.psssit{
+    margin-top: -250px;
+}
+
+.ddd p{
+    font-size: 3rem;
+    line-height: 1;
+    font-weight: 700;
+    color: #4767c9;
+}
+.psssit .card{
+    border-radius: 23px;
+}
+
+
+
+
+.post-meta-2 img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 5px;
+    float: left;
+    margin-top: -3px;
+}
+.u-text-3{
+    font-weight: 700;
+}
+.post-meta-2 p{
+    font-weight: 300;
+    font-size: 1rem;
+}
+.rt{
+   color: #999999;
+}
+.dfds{
+    border-radius: 30px;
+    border: none;
+}
+
+
+#read .btn{
+    border-style: none;
+    font-size: 1.25rem;
+    letter-spacing: 0px;
+    background-image: none;
+    align-self: center;
+    text-transform: none;
+    font-weight: 700;
+    background: #4767c9;
+    color: #fff;
+    text-align: center;
+    border-radius: 30px;
+  
+    padding: 18px 87px 18px 86px
+}
+
+#lst1{
+    background: #4767c9;
+    height: 150px;
+}
+
+
+#so{
+    list-style: none;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+}
+#so li{
+    display: inline-block;
+    padding-left: 5px;
+}
+#so a{
+    font-size: 23px;
+    color: #fff;
+}
+#so a:hover{
+   transition: all .3s;
+    color: red;
+}
+
+.ddd2 .btn{
+    background: #4767c9 ;
+    width: 100%;
+    color: #fff;
+    text-transform: uppercase;
+    border-style: none;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+.ddd2 h1{
+    text-transform: none;
+    font-size: 3rem;
+    font-weight: 700;
+}
+.ddd2 p{
+    font-size: 1rem;
+    line-height: 2;
+    color: #999999;
+}
+.dtee input{
+    border-radius: 0%;
+    background: #f2f2f2;
+    border-radius: 12px;
+}
+
+
+#fotter{
+    background: #333333;
+    color: #fff;
+    margin-top: 100px;
+}   
+#fotter a{
+    color: #fff;
+    padding: 20px 0;
+}
+#fotter .lnks p{
+    font-size: 14px;
+}
+.lnks a:hover{
+    color: rgb(173, 173, 173);
+    text-decoration: none;
+}
