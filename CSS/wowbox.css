@@ -1,0 +1,661 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #232223;
+    color: white;
+}
+
+.navbar-nav a {
+    display: block;
+    font-weight: 400;
+    font-size: 15px;
+    text-transform: capitalize;
+    color: #fff;
+    padding: 8px 15px;
+    letter-spacing: 0.5px;
+}
+
+
+.carousel-item img {
+    height: 90vh;
+}
+
+.carousel-caption {
+    position: absolute;
+    right: 15%;
+    top: 20%;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+.brder-red {
+    background: #fff;
+    border-radius: 35px;
+    margin-top: 80px !important;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+}
+
+h1 {
+    font-size: 50px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 30px
+}
+
+.border-btn a {
+    font-size: 14px;
+    color: #22b3c1;
+    background-color: transparent;
+    border: 1px solid #22b3c1;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+.border-btn a:hover {
+    background: #22b3c1;
+    color: #fff;
+}
+
+
+.spn i {
+    font-size: 40px;
+    color: #000;
+
+}
+
+iframe {
+    border-radius: 20px;
+}
+
+.spn i {
+    color: #22b3c1;
+    font-size: 24px;
+    width: 60px;
+    height: 60px;
+    display: inline-block;
+    text-align: center;
+    line-height: 58px;
+    border: 1px solid #22b3c1;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.spn .rt {
+    text-align: left;
+    font-size: 20px;
+    color: #22b3c1;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.spn .u-text-3 {
+    font-size: 15px;
+    color: #afafaf;
+    font-weight: 400;
+}
+
+.kii {
+    background: #fff;
+    border-radius: 200px;
+}
+
+.kii .card {
+    background: transparent;
+    border: none;
+}
+
+.border-btn2 a {
+    font-size: 14px;
+    color: #ffff;
+    background-color: #22b3c1;
+    border: 1px solid #22b3c1;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+.flex-grow-1 {
+    flex-grow: 0 !important;
+}
+
+
+/*  */
+
+.hedidng {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    line-height: 36px;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #2a2a2a;
+}
+
+.tpt img {
+    border-radius: 43px;
+}
+
+.info li {
+    display: inline-block;
+    width: 32%;
+    color: #afafaf;
+    font-size: 14px;
+}
+
+.ned {
+    font-size: 14px;
+    color: #22b3c1;
+    font-weight: 500;
+    transition: all .3s;
+}
+
+.page-link {
+    display: inline-block;
+    width: 46px;
+    height: 46px;
+    border: 1px solid #22b3c1;
+    background: none;
+    line-height: 30px;
+    color: #22b3c1;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 50%;
+    transition: all .3s;
+    margin: 0 4px;
+}
+
+.page-link:hover {
+    background: #22b3c1;
+}
+
+.pagination .page-linkf {
+
+    padding: 10px;
+    line-height: 45px;
+    color: #22b3c1;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 50%;
+    transition: all .3s;
+    margin: 0 4px;
+}
+
+.card {
+    background: none;
+}
+
+
+
+#blur {
+    background-image: url(https://templatemo.com/templates/templatemo_580_woox_travel/assets/images/cta-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 75px 0px;
+    font-size: 40px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.atrd {
+    font-size: 40px;
+    color: #fff;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.artee {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.ur {
+    font-size: 14px;
+    color: #fff;
+    background-color: transparent;
+    border: 1px solid #fff;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+}
+
+.ur:hover {
+    background: #FFf;
+    color: #22b3c1;
+}
+
+
+#fotter {
+    background: #22b3c1;
+    color: #fff;
+    margin: 0;
+}
+
+#fotter a {
+    color: #fff;
+    padding: 20px 0;
+}
+
+#fotter .lnks p {
+    font-size: 14px;
+}
+
+.lnks a:hover {
+    color: rgb(173, 173, 173);
+    text-decoration: none;
+}
+
+
+
+/*  */
+
+
+@media screen and (max-width:868px) {
+
+    .carousel-item img {
+        height: 100vh;
+    }
+}
+
+
+
+/* About */
+
+
+#cvr-pc {
+    background-image: url(https://templatemo.com/templates/templatemo_580_woox_travel/assets/images/about-content-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 140px 0;
+    background-attachment: fixed;
+}
+
+
+#login {
+    width: 100%;
+    padding: 120px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    backdrop-filter: blur(6px);
+    border-radius: 20px;
+    box-shadow: 0 0 5px #333;
+
+}
+
+#cvr-pc .content {
+    border-radius: 23px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+}
+
+#cvr-pc .pp {
+    color: #fff;
+
+    padding: 0px 15%;
+}
+
+.border-btn5 a {
+    font-size: 14px;
+    color: #22b3c1;
+    background-color: #fff;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+
+
+.hfgg .card img {
+    width: 100%;
+    height: 178px;
+}
+
+.hfgg .carousel-lgth {
+    background: #Fff;
+    margin-top: -80px;
+    position: relative;
+    border-radius: 20px;
+}
+
+
+
+
+#carouselId .carousel-indicators {
+    position: absolute;
+    top: 20px;
+    right: 0;
+    left: 700px;
+}
+
+
+
+#weekly-offer h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    line-height: 36px;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+#weekly-offer .pp {
+    font-size: 15px;
+    line-height: 30px;
+    padding: 0 36%;
+    color: #afafaf;
+}
+
+
+
+
+#weekly-offer .card {
+    margin: 0px 15px;
+    position: relative;
+    min-height: 420px;
+    border: none;
+}
+
+#weekly-offer .card-body {
+    position: absolute;
+    background-color: #fff;
+    border-radius: 23px;
+    left: 30px;
+    color: #000;
+    top: 50%;
+    transform: translateY(-50%);
+    box-shadow: 0px 0px 15px rgb(0 0 0 / 15%);
+    padding: 30px;
+}
+
+#weekly-offer .card img {
+    width: 50%;
+    height: 50%;
+    border-radius: 20px 0;
+}
+
+#weekly-offer h4 span {
+    font-size: 15px;
+    color: #afafaf;
+    font-weight: 400;
+}
+
+#weekly-offer h6 {
+    display: inline-block;
+    text-align: right;
+    font-size: 20px;
+    color: #22b3c1;
+}
+
+#weekly-offer h6 span {
+    font-size: 15px;
+    color: #afafaf;
+    font-weight: 400;
+}
+
+#weekly-offer .fz {
+    color: #2a2a2a;
+    font-weight: 600;
+}
+
+#weekly-offer .fg {
+    color: #afafaf;
+    font-size: 14px;
+    margin-bottom: 10px
+}
+
+
+
+/*  */
+
+
+#discover h2 {
+    margin-top: 0px;
+    margin-bottom: 20px;
+    line-height: 36px;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+    color: #fff;
+}
+
+#discover p {
+    font-size: 15px;
+    line-height: 30px;
+    color: #afafaf;
+}
+
+#discover .inf-itm {
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    padding: 30px;
+    margin-bottom: 30px
+}
+
+#discover .inf-itm h4 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #2a2a2a;
+    font-weight: 700;
+}
+
+#discover .inf-itm span {
+    color: #22b3c1;
+    font-size: 15px;
+
+}
+
+
+/* deal */
+
+
+#cvr-pc_d {
+    background-image: url(https://templatemo.com/templates/templatemo_580_woox_travel/assets/images/heading-bg.jpg);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#cvr-pc_d #logine {
+    width: 100%;
+    padding: 120px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-radius: 20px;
+    box-shadow: 0 0 5px #333;
+}
+
+#cvr-pc_d .content {
+    border-radius: 23px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+}
+
+#cvr-pc_d .pp {
+    color: #fff;
+
+    padding: 0px 15%;
+}
+
+
+
+/* option */
+
+
+#option form {
+    background-color: #22b3c1;
+    border-bottom-left-radius: 23px;
+    border-bottom-right-radius: 23px;
+    padding: 35px 60px;
+}
+
+#option form .form-select {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-bottom: 1px solid #fff;
+    border-radius: 0px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    width: 100%;
+    cursor: pointer;
+}
+
+#option form .form-select {
+    background-color: transparent;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-bottom: 1px solid #fff;
+    border-radius: 0px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+option {
+    background-color: #1ea0ad;
+}
+
+
+
+/* bestW */
+
+#bestW .card  {
+    border-radius: 30px;
+    border: none;
+
+}
+
+
+#bestW .card img {
+   border-top-left-radius: 30px;
+   border-bottom-left-radius: 30px;
+   padding: 0;
+}
+#bestW .card-body span {
+    color: #22b3c1;
+    font-size: 15px;
+
+}
+
+#bestW .card-body .po,
+i {
+    color: #afafaf;
+}
+
+#bestW p {
+    font-size: 15px;
+    line-height: 30px;
+    color: #afafaf;
+}
+
+.border-btn6 a {
+    font-size: 14px;
+    color: #fff;
+    background-color: #22b3c1;
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 25px;
+    font-weight: 500;
+    text-transform: capitalize;
+    letter-spacing: 0.5px;
+    transition: all .3s;
+    position: relative;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+#bestW hr{
+    color: #000;
+}
+
+
+/* reserv */
+
+#reserv{
+    background-image: url(	https://templatemo.com/templates/templatemo_580_woox_travel/assets/images/heading-bg-02.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+
+
+#reserv #logine {
+    width: 100%;
+    padding: 120px 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-radius: 20px;
+    box-shadow: 0 0 5px #333;
+}
+
+#reserv .content {
+    border-radius: 23px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+}
+
+#reserv .pp {
+    color: #fff;
+
+    padding: 0px 15%;
+}
