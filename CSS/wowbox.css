@@ -694,3 +694,39 @@ i {
 #map_frm label{
     color: #000;
 }
+#map_frm input{
+    width: 100%;
+    height: 46px;
+    background-color: transparent;
+    border-radius: 23px;
+    border: 1px solid #e0e0e0;
+    padding: 0px 20px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+#map_frm .form-select{
+    width: 100%;
+    height: 46px;
+    background-color: transparent;
+    border-radius: 23px;
+    border: 1px solid #e0e0e0;
+    padding: 0px 20px;
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+#map_frm .border-btn9 a{
+    font-size: 14px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #22b3c1;
+    border: 1px solid #22b3c1;
+    padding: 12px 30px;
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+    border-radius: 25px;
+    transition: all .3s;
+}
+#map_frm label{
+    color: #afafaf;
+}
